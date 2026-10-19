@@ -1,0 +1,6 @@
+{
+  "name": "청춘 두뇌 테트리스 - 어르신 인지 강화 퍼즐",
+  "description": "치매 예방 및 인지 재활을 돕는 어르신 맞춤형 테트리스. 큰 글씨, 여유로운 속도, 한 수 무르기, 추천 힌트와 따뜻한 음성 응원 기능 제공.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
